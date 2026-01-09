@@ -63,5 +63,15 @@ npm run preview
 - Consulta mediante la api de Open Weather
 
 
+## 📦 CI/CD
+Este proyecto se despliega automáticamente en Github Pages:
+- Cada push a `main` dispara linting, pruebas y build.
+- Si todo pasa, Github Pages publica la nueva versión en producción.
+- Integración con GitHub Actions asegura calidad antes del deploy.
+
+## Status badge
+[![CI/CD Pipeline](https://github.com/tchock42/cripto-react-zustand/actions/workflows/deploy.yml/badge.svg)](https://github.com/tchock42/cripto-react-zustand/actions/workflows/deploy.yml)
+
 ## 📸 Demo
-([Página en Github Pages]())
+([Página en Github Pages](https://tchock42.github.io/cripto-react-zustand/))
+
