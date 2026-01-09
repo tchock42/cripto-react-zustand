@@ -64,4 +64,4 @@ npm run preview
 
 
 ## 📸 Demo
-([Página en Vercel](https://cripto-1234-517691032774.us-central1.run.app/))
+([Página en Github Pages]())
